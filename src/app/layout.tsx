@@ -38,6 +38,9 @@ export const metadata: Metadata = {
     title: 'Hacksaw Gaming UK – Play Slots, Free Demos & Mobile Casino Games',
     description:
         'Hacksaw Gaming slots in the UK! Play free demos, explore new releases, enjoy high RTP and innovative mechanics, and experience mobile-optimized casino games anytime.',
+    verification: {
+        google: 'RlUsY_5_pXpxNbzL0plo8-Vfru5Q3dasedM0acllji8',
+    },
     openGraph: {
         title: 'Hacksaw Gaming UK – Play Slots, Free Demos & Mobile Casino Games',
         description:
@@ -53,7 +56,7 @@ export const metadata: Metadata = {
             'Hacksaw Gaming slots in the UK! Play free demos, explore new releases, enjoy high RTP and innovative mechanics, and experience mobile-optimized casino games anytime.',
     },
     alternates: {
-        canonical: '/',
+        canonical: 'https://hacksawgaming.uk.com/',
     },
 };
 
